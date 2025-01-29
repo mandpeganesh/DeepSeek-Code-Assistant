@@ -8,6 +8,7 @@ DeepSeek Code Assistant is a Django-based web application that provides an AI-po
 
 - Python 3.8+
 - Django 5.1.5
+- Node.js (for frontend dependencies)
 - A HuggingFace API token
 
 ### Setup

@@ -16,7 +16,7 @@ DeepSeek Code Assistant is a Django-based web application that provides an AI-po
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/deepseek_code_assistant.git
+    git clone https://github.com/mandpeganesh/deepseek_code_assistant.git
     cd deepseek_code_assistant
     ```
 
